@@ -21,7 +21,7 @@ THE SOFTWARE.
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns="http://java.sun.com/xml/ns/javaee"
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
-	id="sygma-mod-admin-web" version="3.0">
+	id="h2-weblogic-datasource-example" version="3.0">
 
 	<display-name>h2-weblogic12c-datasource-example</display-name>
 
